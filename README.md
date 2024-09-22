@@ -1,6 +1,20 @@
 # ubuntu-configs
 My Ubuntu configurations and scripts.
 
+# XFCE
+### Systray icons desapearing [(Source)](https://forum.xfce.org/viewtopic.php?id=17218)
+``` bash
+apt list --installed | grep ayatana-indicator-application
+```
+``` bash
+sudo apt remove ayatana-indicator-application
+```
+``` bash
+xfce4-panel -r
+```
+``` bash
+xfce4-panel &
+```
 # Instalação de Apps
 ### Davinci Resolve [(Source)](https://www.youtube.com/watch?v=wmRiZQ9IZfc)
 ``` bash
@@ -26,7 +40,7 @@ sudo dnf install akmod-nvidia xorg-x11-drv-nvidia-cuda
 ``` bash
 sudo ./DaVinci_Resolve_[TAB]
 ```
-Solução para "qt.qpa.xcb: could not connect to display :0.0"
+Solução para "qt.qpa.xcb: could not connect to display"
 ``` bash
 echo $DISPLAY
 ```
