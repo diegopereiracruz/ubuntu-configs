@@ -42,7 +42,7 @@ sudo ./DaVinci_Resolve_[TAB]
 ```
 Solução para "Unsupported GPU Processing Mode" [(Source)](https://nobaraproject.org/docs/davinci-resolve/configuring-davinci-resolve-with-amd-gpus/)
 ``` bash
-sudo dnf install mesa-libOpenCL apr apr-util
+sudo dnf install mesa-libopencl apr apr-util
 ```
 Alias (bash)
 ``` bash
