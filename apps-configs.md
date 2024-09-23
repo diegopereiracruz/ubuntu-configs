@@ -14,7 +14,7 @@ sudo dnf install alsa-plugins-pulseaudio libxcrypt-compat xcb-util-renderutil xc
 ```
 AMD GPU:
 ``` bash
-sudo dnf install rocm-openCL
+sudo dnf install rocm-opencl
 ```
 NVIDIA GPU (with RPM Fusion):
 ``` bash
