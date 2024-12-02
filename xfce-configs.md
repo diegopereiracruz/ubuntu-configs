@@ -1,5 +1,5 @@
 # XFCE
-### Systray icons desapearing [(Source)](https://forum.xfce.org/viewtopic.php?id=17218)
+### Apps tray icons disappearing [(Source)](https://forum.xfce.org/viewtopic.php?id=17218)
 ``` bash
 apt list --installed | grep ayatana-indicator-application
 ```
