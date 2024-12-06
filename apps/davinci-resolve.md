@@ -1,5 +1,4 @@
-# Configuração de Apps
-### Davinci Resolve [(Source)](https://www.youtube.com/watch?v=wmRiZQ9IZfc)
+# Davinci Resolve [(Source)](https://www.youtube.com/watch?v=wmRiZQ9IZfc)
 ``` bash
 sudo apt install distrobox
 ```
