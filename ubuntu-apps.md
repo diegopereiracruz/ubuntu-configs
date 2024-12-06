@@ -1,3 +1,3 @@
 # App list
 
-**[Davinci Resolve]()**
+**[Davinci Resolve](https://github.com/diegopereiracruz/ubuntu-configs/blob/main/apps/davinci-resolve.md)**
